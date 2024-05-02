@@ -8,7 +8,7 @@ To run the server locally, follow these steps:
 
 1. Clone this repository.
 2. Install dependencies using `npm install`.
-3. Start the server using `npm start`.
+3. Start the server using `npm run dev`.
 
 ## API Endpoints
 
